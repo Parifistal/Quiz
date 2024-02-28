@@ -15,3 +15,6 @@ double leernumero(){
    std::cin>>num;
    return num;
 }
+double suma(double num1, double num2){
+  return(num1+num2);
+}
