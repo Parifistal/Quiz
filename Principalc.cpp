@@ -9,3 +9,9 @@ int menu(){
   return (opc);
   system("clear");
 }
+double leernumero(){
+  double num;
+   std::cout<<"Ingrese un numero: "<<std::endl;
+   std::cin>>num;
+   return num;
+}
